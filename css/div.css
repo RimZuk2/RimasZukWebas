@@ -1,0 +1,12 @@
+body{
+    width: 700px;
+}
+div{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    padding: 10px;
+    background-color: dimgray;
+    text-align: center;
+    float: left;
+}
